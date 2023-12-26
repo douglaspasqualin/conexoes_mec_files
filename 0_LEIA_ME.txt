@@ -1,0 +1,3 @@
+instituicaocenso e dadoscenso são ISO-8859-1 e separados por ;
+
+Todos os outros são UTF-8 e separador por virgula
