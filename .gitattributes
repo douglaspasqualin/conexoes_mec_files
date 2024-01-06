@@ -1,3 +1,5 @@
 censo_2022_cursos.csv filter=lfs diff=lfs merge=lfs -text
 censo_trajetoria_2018_2022.csv filter=lfs diff=lfs merge=lfs -text
 sisu.csv filter=lfs diff=lfs merge=lfs -text
+sisu_corte.csv filter=lfs diff=lfs merge=lfs -text
+sisu_vagas.csv filter=lfs diff=lfs merge=lfs -text
